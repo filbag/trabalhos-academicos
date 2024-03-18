@@ -1,4 +1,4 @@
-Alguns dos trabalhos académicos realizados no âmbito do Mestrado em Cibersergurança e Informática Forense
+Alguns dos trabalhos académicos realizados no âmbito do Mestrado em Cibersergurança e Informática Forense [2022-2024]
 
 
 AFD-II - Análise Forense Digital II.
